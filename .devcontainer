@@ -1,0 +1,5 @@
+devcontainer.json
+  {
+  "name": "My Codespace",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}
